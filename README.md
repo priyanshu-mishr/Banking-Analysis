@@ -21,10 +21,12 @@ This project presents an interactive **Banking Dashboard** that analyzes key fin
 ![Home](https://github.com/priyanshu-mishr/Banking-Analysis/blob/main/Banking%20Analysis/Dashboard%20Images/Home.png)
 
 ### 💰 Deposit Analysis  
-![Deposit Analysis]([https://github.com/priyanshu-mishr/Banking-Analysis/blob/main/Banking%20Analysis/Dashboard%20Images/Deposit%20Analysis.png](https://github.com/priyanshu-mishr/Banking-Analysis/blob/main/Banking%20Analysis/Dashboard%20Images/Deposit%20Analyisi.png))
+![Deposit Analysis](https://github.com/priyanshu-mishr/Banking-Analysis/blob/main/Banking%20Analysis/Dashboard%20Images/Deposit%20Analysis.png)
 
 ### 💳 Loan Analysis  
 ![Loan Analysis](https://github.com/priyanshu-mishr/Banking-Analysis/blob/main/Banking%20Analysis/Dashboard%20Images/Loan%20Analysis.png)
 
 ### 📋 Summary  
 ![Summary](https://github.com/priyanshu-mishr/Banking-Analysis/blob/main/Banking%20Analysis/Dashboard%20Images/Summary.png)
+
+
